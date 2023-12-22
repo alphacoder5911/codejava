@@ -3,6 +3,7 @@ import java.util.Scanner;
 class demo{
     public static void main(String[] args) {
         System.out.println("HI SHREYAS");
+ 
         Scanner sc=new Scanner(System.in);
         System.out.println("ENTER THE AGE OF SHREYAS ");
         int s=sc.nextInt();
@@ -16,5 +17,8 @@ class demo{
             System.out.println("LICENCE NAHI MILEGA");
         }
         
+
+        System.out.println("SHREYAS STUDIES IN SDM COLLEGE ");
+ 
     }
 }
