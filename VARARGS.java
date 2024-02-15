@@ -1,4 +1,4 @@
-import java.util.*;
+
 public class VARARGS {
 
     static int add(int ...arr)
