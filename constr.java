@@ -41,5 +41,11 @@ class meraemploy {
     Constructor name must be the same as its class name
     A Constructor must have no explicit return type
     A Java constructor cannot be abstract, static, final, and synchronized
+
+    THERE ARE TWO TYPES OF CONSTRUCTORS :
+    1]PARAMETERIZED CONSTRUCTORS:I.E YOU CAN SEND PARAMETERS WHILE INSTANTIATING THE PARTICULAR CLASS OBJ.
+    2]DEFAULT CONSTRUCTORf: THAT IS NO ARGUEMENTS WILL BE PASSED TO THE CONSTRUCTOR.
+
+    A CONSTRUCTOR IS INVOKED IMPLICITLY WGEB INSTANCE OF THAT CLASS IS CREATED.
      */
     }
