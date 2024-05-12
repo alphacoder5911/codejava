@@ -18,7 +18,7 @@ public class threadmethods {
         thr2 t1=new thr2("SHRYAS1");
         thr2 t2=new thr2("shryas 2");
         t1.start();
-        //NOW IF I WANT TO FIRST TOTALLY COMPLETE EXECUTOI OF T1 THEN I WILL USE JOIN() METH IN TRY CATCH LOOP
+        //NOW IF I WANT TO FIRST TOTALLY COMPLETE EXECUTOI OF T1 THEN I WILL USE JOIN() METH IN TRY CATCH block.
         // try{
         //     t1.join();
         // }
